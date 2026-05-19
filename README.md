@@ -26,3 +26,6 @@ Gerekli paketleri yükleyin:
 npm install
 Uygulamayı emülatörde başlatın:
 npx expo start
+
+<img width="360" height="243" alt="Ekran görüntüsü 2026-05-19 173714" src="https://github.com/user-attachments/assets/ef8d1705-27e2-42a0-9d3e-2c83b0fba1d4" />
+<img width="387" height="837" alt="Ekran görüntüsü 2026-05-19 173553" src="https://github.com/user-attachments/assets/718091a2-cc3b-487d-b19c-897038b488ab" />
